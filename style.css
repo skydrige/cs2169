@@ -1,0 +1,54 @@
+h1,
+h2,
+h3,
+h4,
+p,
+li {
+  font-family: sans-serif;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-family: sans-serif;
+  font-size: 30px;
+  font-style: italic;
+}
+
+h2 {
+  font-size: 39px;
+  font-family: sans-serif;
+}
+
+p {
+  font-size: 22px;
+  font-family: sans-serif;
+  font-style: italic;
+  line-height: 1.5;
+}
+
+h3 {
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+h4 {
+  font-size: 20px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  
+}
+
+li {
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+footer p{
+    font-size: 16px;
+    font-style: normal;
+}
+
+article header p{
+    font-style: italic;
+}
